@@ -213,5 +213,6 @@ Dear Friend/
 ---
 
 ## Credits
-Sound design: Gold Kim
+Sound design: Gold Kim 
+all rights reserved 
 Exhibition sound constraints and project structure developed in collaboration with the project teams.
