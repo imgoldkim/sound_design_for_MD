@@ -1,6 +1,5 @@
-# Sound Design Portfolio — The Ou Café / Ouppps / Dear Friend
+# Sound Design Portfolio — Geneva Library 'Care' Selected projects The Ou Café / Ouppps / Dear Friend
 
-> **Repo description (for GitHub "About"):**
 > Interaction-driven sound design for three exhibition installations — The Ou Café, Ouppps, and Dear Friend — built around a no-idle-audio, interaction-only sound policy for a shared exhibition space.
 
 Sound design work for three interactive exhibition pieces, created for a shared exhibition space with strict sound constraints: no continuous music, no idle/waiting-screen audio, and sound triggered only through active visitor interaction. Subtle environmental ambience is used sparingly, only where it doesn't dominate the shared space.
